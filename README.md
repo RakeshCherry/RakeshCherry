@@ -52,9 +52,10 @@ hobbies: ["Reading Books", "Cinema", "WebSeries",]
 ```
   
 ---  
-<div justify-contect-center flex>
+<div <div style="display: flex; justify-content: center;">
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; width: 400px; gap: 10px;">
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="eclipse" width="45" height="45" />
@@ -83,6 +84,7 @@ hobbies: ["Reading Books", "Cinema", "WebSeries",]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
+</div>
 </div>
 
 <p align="center">

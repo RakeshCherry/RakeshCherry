@@ -55,7 +55,7 @@ hobbies: ["Reading Books", "Cinema", "WebSeries",]
 
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<div align="center" width="200px" gap="10px">
+<div align="center" width="100px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="eclipse" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intelij" width="45" height="45" />

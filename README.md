@@ -52,7 +52,7 @@ hobbies: ["Reading Books", "Cinema", "WebSeries",]
 ```
   
 ---  
-<div <div style="display: flex; justify-content: center;">
+<div align="center">
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; width: 400px; gap: 10px;">

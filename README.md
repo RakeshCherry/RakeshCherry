@@ -41,12 +41,17 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Full Stack Developer",
+    **"Full Stack Developer",
     "Backend- SpringBoot",
-    "FrontEnd - Reactjs"
+    "FrontEnd - Reactjs"**
+	Java,Servlets,JSP
+	HTML ,CSS,XML,Java Script,Spring,Spring boot,Micro Services,Struts
+	Log4j,Maven,GIT,SVN,Junit,SpringORM, SpringMVC.
+	Hibernate,JPA,SQL,APACHE Tomcat,Eclipse,Linux,AWS,Kafka
+	JAX-WS, Restful,Kubernetes,Multi Threading,Angular,React JS,Node JS
   ]
   
-currently_learning: ["Docker, Kubernetes, and Spring Security 6"]
+currently_learning: ["Spring Security 6"]
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Reading Books", "Cinema", "WebSeries",]
 ```

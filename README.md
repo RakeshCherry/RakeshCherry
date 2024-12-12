@@ -51,7 +51,7 @@ technical_background:
 	JAX-WS, Restful, Kubernetes, Multi-Threading, Angular, React JS, NodeJS
   ]
   
-currently_learning: ["Spring Security 6"]
+currently_learning: ["Spring Security 6, Camunda Moduler 7"]
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Reading Books", "Cinephile", "Culinarian"]
 ```

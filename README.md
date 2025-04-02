@@ -52,7 +52,7 @@ technical_background:
   ]
   
 currently_learning: ["Spring Security 6, Camunda Moduler 7"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+2024 Goals: ["Create 5-10 Major Projects and learn at least 5 new Technologies."]
 hobbies: ["Reading Books", "Cinephile", "Culinarian"]
 ```
   
